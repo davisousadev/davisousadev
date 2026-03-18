@@ -36,6 +36,9 @@
 <h1>Ferramentas👨‍💻</h1>
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,tailwind,figma,git,nodejs,postgres,supabase,express&theme=dark" />
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisousadev&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisousadev&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=davisousadev&show_icons=true&theme=radical&cache_seconds=1800" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisousadev&layout=compact&theme=radical" /></td>
+  </tr>
+</table>
