@@ -34,7 +34,7 @@
   </a>
 </div>
 <h1>Ferramentas👨‍💻</h1>
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,tailwind,figma,git,nodejs,postgres,supabase,express&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,tailwind,figma,git,nodejs,postgres,supabase,express,docker&theme=dark" />
  
 <table>
   <tr>
