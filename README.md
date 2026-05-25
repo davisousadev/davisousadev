@@ -35,9 +35,9 @@
 </div>
 <h1>Ferramentas👨‍💻</h1>
   <h2>Frontend:</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,figma,linux&theme=dark" />
   <h2>Backend:</h2>
-     <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,express,python,js,ts&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,express,python,js,ts,linux&theme=dark" />
   <h2>Versionamento:</h2>
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" />
  
