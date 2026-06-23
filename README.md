@@ -33,12 +33,12 @@
     <img src="https://img.shields.io/badge/-CV-0078D4?style=flat-square&labelColor=0078D4&logo=readme&logoColor=white"/>
   </a>
 </div>
-<h1>Ferramentas👨‍💻</h1>
+<h1>Tecnologias👨‍💻</h1>
   <h2>Frontend:</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,figma,linux&theme=dark" />
   <h2>Backend:</h2>
      <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,express,python,js,ts,linux&theme=dark" />
-  <h2>Versionamento:</h2>
+  <h2>Ferramentas:</h2>
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" />
  
 <table>
