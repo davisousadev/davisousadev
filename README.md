@@ -54,6 +54,7 @@
     </div>
   <h2>Tools:</h2>
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" />
+      <img src="https://img.shields.io/badge/N8N-%23EA4B71.svg?style=flat-square&logo=n8n&logoColor=white" />
  
 <table>
   <tr>
