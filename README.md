@@ -48,7 +48,11 @@
       <img src="https://img.shields.io/badge/Drizzle-%23C5F74F.svg?style=flat-square&logo=Drizzle&logoColor=black" />
       <img src="https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=flat-square&logo=Sequelize&logoColor=white" />
     </div>
-  <h2>Ferramentas:</h2>
+   <h2>Frameworks:</h2>
+    <div>
+      <img src="https://img.shields.io/badge/Odoo-%23714B67.svg?style=flat-square&logo=Odoo&logoColor=white" />
+    </div>
+  <h2>Tools:</h2>
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" />
  
 <table>
