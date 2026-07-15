@@ -36,8 +36,18 @@
 <h1>Tecnologias👨‍💻</h1>
   <h2>Frontend:</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,figma,linux&theme=dark" />
+    <div>
+      <img src="https://img.shields.io/badge/Shadcm UI-%23000000.svg?style=flat-square&logo=shadcn/ui&logoColor=white" />
+      <img src="https://img.shields.io/badge/React Query-%23FF4154.svg?style=flat-square&logo=reactquery&logoColor=white" />
+    </div>
   <h2>Backend:</h2>
      <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,express,python,js,ts,linux&theme=dark" />
+    <div>
+      <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white" />
+      <img src="https://img.shields.io/badge/zod-%23408AFF.svg?style=flat-square&logo=zod&logoColor=white" />
+      <img src="https://img.shields.io/badge/Drizzle-%23C5F74F.svg?style=flat-square&logo=Drizzle&logoColor=black" />
+      <img src="https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=flat-square&logo=Sequelize&logoColor=white" />
+    </div>
   <h2>Ferramentas:</h2>
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" />
  
