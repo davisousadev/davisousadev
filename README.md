@@ -9,10 +9,9 @@
   <tr>
     <td>
       <h2>
-        Desenvolvedor Fullstack, com experiência prática em projetos colaborativos.
-        Conhecimento em boas práticas (clean code, SOLID, API RESTful), Arquitetura de software (MVC, Camadas, Microsserviço) e System design (escalamento, infraestrutura).
-        Proativo, comunicativo e focado em soluções funcionais e criativas. Especialista
-        em desenvolvimento web moderno e frameworks populares.
+       Desenvolvedor Fullstack com experiência prática em projetos colaborativos.
+Sólidos conhecimentos em boas práticas (Clean Code, SOLID, APIs RESTful), Arquitetura de Software (MVC, Camadas, Microsserviços) e System Design (escalabilidade e infraestrutura).
+Proativo, comunicativo e focado em entregar soluções funcionais, criativas e de alto desempenho para o desenvolvimento web moderno.
       </h2>
     </td>
     <td>
